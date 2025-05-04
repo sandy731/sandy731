@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Criminal Face Detection (ShriNik)**
+- 🔭 I’m currently working on **Global forest cover exchange analysis using NASA satellite images from 1990 to 2005**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Machine Learning, Python**
+- 💬 Ask me about **Data Science, Machine Learning, Python**
 
 - 📫 How to reach me **sandeepk16573@gmail.com**
 
