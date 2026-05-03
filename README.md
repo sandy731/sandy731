@@ -16,7 +16,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-
+<div style="display:flex; gap:10px;">
 <p align="left">
 
 <!-- Python -->
